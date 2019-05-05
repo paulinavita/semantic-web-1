@@ -1,0 +1,46 @@
+.navbar-fixed {
+   
+}
+#nav {
+    opacity: 0.5 !important;
+    color: black !important;
+
+}
+
+.slider {
+    margin-top: -65px;
+}
+.slider h3,
+.slider h5 {
+    
+    text-shadow: 1px 1px 3px rgba(0, 0, 0, 0.5)
+}
+
+.parallax-container {
+    height: 350px;
+    filter: grayscale(100%);
+
+}
+
+.parallax img {
+    opacity: 0.5 !important;
+}
+
+.care img {
+    max-width: 150px;
+}
+
+section {
+    padding : 20px 0px
+}
+
+.slider img {
+    background-color: Black;
+    filter: grayscale(100%);
+    opacity: 0.5;
+    z-index:10;
+}
+
+.par-care {
+    font-family: 'Abril Fatface', cursive !important;
+}
